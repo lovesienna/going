@@ -10,6 +10,7 @@ export default function Home() {
       </Head>
       <h2>Welcome</h2>
       Hello, World!
+v2
     </>
   );
 }
